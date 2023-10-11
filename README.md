@@ -25,3 +25,7 @@ Use seaborn to create a heat map of the planet temperature.
 My Habitable World
 
 Based on the above analysis, my habitable world is a rocky planet that orbits a Sun-like star in the habitable zone. It is about 1.5 times the size of Earth and has a radius of 1.2 times that of Earth. Its temperature ranges from -50 to 50 degrees Celsius, which is similar to Earth's temperature range.
+
+My habitable world has a thick atmosphere that is composed mostly of nitrogen and oxygen, with smaller amounts of carbon dioxide and other gases. The atmosphere is dense enough to protect the planet from harmful radiation from its star, but thin enough to allow sunlight to reach the surface.
+
+The surface of my habitable world is mostly covered in water, with some landmasses. The oceans are teeming with life, and the landmasses are covered in lush forests and grasslands. The planet has a diverse ecosystem, with a wide variety of plants and animals.

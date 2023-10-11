@@ -44,3 +44,13 @@ Description: On the second page, users will find a concise yet informative expla
 
 Page 3: My Exoplanet
 The third page is dedicated to our own exoplanet. We've also provided detailed information about our hypothetical exoplanet, including its name, size, distance from its host star, and unique features. We'll also offer Python code descriptions that can be used to simulate various aspects of your exoplanet, such as its orbit, climate, or other intriguing properties. This page serves as a hands-on experience for users who are interested in the technical side of exoplanet exploration and coding.
+
+
+## Prototype Design
+
+We have created a detailed prototype of our Exoplanet Project using Figma, a collaborative interface design tool. You can view the interactive prototype by clicking the link below:
+
+[Figma Prototype](https://www.figma.com/proto/YOTLtRvVRRuvXovhQOtpF5/Untitled?type=design&node-id=36-20&t=TZrYORtTl1AyXquw-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=45%3A120&mode=design)
+this consist of our Data analysis , Research,Predictions and many more
+Feel free to explore the user interface, interactions, and design elements we have implemented for our project. Your feedback and suggestions are highly appreciated!
+

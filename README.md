@@ -32,27 +32,15 @@ The surface of my habitable world is mostly covered in water, with some landmass
 
 Webpage:
 
-We des
 To make this webpage we have used Kobweb which is an extension to kotlin to build webapps with ease!
 
-In the app we have a pages, one is an intro page that welcomes you, another page is a short description with a link to NASA's blog on Exoplanets, and third page is some information about our exoplanet.
+In the app we have three pages;
 
 Page 1: Welcome
 Description: The first page of the webpage welcomes visitors with a beautiful and user-friendly design. It provides a brief introduction to the topic of exoplanets, enticing users to explore further. The page includes a captivating image of a distant galaxy to set the tone for the exploration that follows.
 
 Page 2: What Are Exoplanets?
 Description: On the second page, users will find a concise yet informative explanation of what exoplanets are. It covers their definition, characteristics, and their significance in the study of the cosmos. The page is designed to be visually engaging with the use of diagrams and images to help visitors grasp the concept easily. It also has NASA's blog on exoplanet attached so users can get an ever better description if they want to know more about Exoplanets in depth.
-
-
-2 / 2
-
-Title: Exploring Exoplanets: A Kotlin-Python Webpage
-
-Page 1: Welcome
-The first page of the webpage welcomes visitors with a beautiful and user-friendly design. It provides a brief introduction to the topic of exoplanets, enticing users to explore further. The page includes a captivating image of a distant galaxy to set the tone for the exploration that follows.
-
-Page 2: What Are Exoplanets?
-On the second page, users will find a concise yet informative explanation of what exoplanets are. It covers their definition, characteristics, and their significance in the study of the cosmos. The page is designed to be visually engaging with the use of diagrams and images to help visitors grasp the concept easily.
 
 Page 3: My Exoplanet
 The third page is dedicated to our own exoplanet. We've also provided detailed information about our hypothetical exoplanet, including its name, size, distance from its host star, and unique features. We'll also offer Python code descriptions that can be used to simulate various aspects of your exoplanet, such as its orbit, climate, or other intriguing properties. This page serves as a hands-on experience for users who are interested in the technical side of exoplanet exploration and coding.

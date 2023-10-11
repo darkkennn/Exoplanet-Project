@@ -1,5 +1,5 @@
 # Exoplanet-Project
-Based on the project made in space apps hackathon
+Based on the project made in NASA space apps hackathon
 
 My Habitable World
 Planet Keplerlife_9

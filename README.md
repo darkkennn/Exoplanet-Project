@@ -1,5 +1,5 @@
 # Exoplanet-Project
-Based on the project made in NASA space apps hackathon
+Based on the project made in NASA space apps hackathon 2023
 
 
 My Habitable World
